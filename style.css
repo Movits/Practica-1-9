@@ -31,3 +31,10 @@ body{
 .img{
     width: 330px;
 }
+
+button{
+    color: black;
+    font-size: 35px;
+    font-family: Arial;
+    background-color: white;
+}
